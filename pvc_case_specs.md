@@ -6,6 +6,9 @@
 * Drill and appropriate drill bits for the sensor hole
 * Styrofoam?
 
+## New Parts to Buy
+* 5.5" zinc-plated bolt (Lowes alternative): https://www.lowes.com/pd/Hillman-3-8-in-x-5-5-in-Zinc-Plated-Standard-SAE-Hex-Bolt/3058147
+
 ## Instructions
 1) Make the PVC tube whatever length you need to fit the equipment.
 2) The PVC Cap is drilled out and is then permanently mounted on the PVC.
