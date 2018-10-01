@@ -8,8 +8,8 @@
 * 5.5" zinc-plated bolt (Lowes alternative): https://www.lowes.com/pd/Hillman-3-8-in-x-5-5-in-Zinc-Plated-Standard-SAE-Hex-Bolt/3058147
 
 ## Case Schematics
-End plate with openings for 4 sensor ports:
-![Image](https://github.com/jakehosen/waterteam/blob/master/end%20plate%20drawing%202.pdf)
+* ![End plate with openings for 4 sensor ports](https://github.com/jakehosen/waterteam/blob/master/end%20plate%20drawing.pdf)
+* ![Rear end plate](https://github.com/jakehosen/waterteam/blob/master/end%20plate%20drawing%202.pdf)
 
 ## Instructions
 1) Make the PVC tube whatever length you need to fit the equipment.
