@@ -10,6 +10,7 @@
 ## Case Schematics
 * ![End plate with openings for 4 sensor ports](https://github.com/jakehosen/waterteam/blob/master/end%20plate%20drawing.pdf)
 * ![Rear end plate](https://github.com/jakehosen/waterteam/blob/master/end%20plate%20drawing%202.pdf)
+* ![Housing/Tube](https://github.com/jakehosen/waterteam/blob/master/end%20plate%20drawing%202.pdf)
 
 ## Instructions
 1) Make the PVC tube whatever length you need to fit the equipment.
