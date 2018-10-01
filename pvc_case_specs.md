@@ -1,13 +1,15 @@
 ## Parts to Buy
-* Expansion Plug – https://www.mcmaster.com/#expansion-test-plugs/=1b6mhxb
 * 2.5" Schedule 40 PVC - https://www.mcmaster.com/#pvc-(schedule-40)-pipe/=1b6mj5j
-* 2.5" PVC Cap – https://www.mcmaster.com/#pvc-caps/=1b6mjmo
 * JB Weld (Epoxy) – https://www.mcmaster.com/#j-b-weld/=1b6mjyj
 * Drill and appropriate drill bits for the sensor hole
 * Styrofoam?
 
 ## New Parts to Buy
 * 5.5" zinc-plated bolt (Lowes alternative): https://www.lowes.com/pd/Hillman-3-8-in-x-5-5-in-Zinc-Plated-Standard-SAE-Hex-Bolt/3058147
+
+## Case Schematics
+End plate with openings for 4 sensor ports:
+![Image](https://github.com/jakehosen/waterteam/blob/master/end%20plate%20drawing%202.pdf)
 
 ## Instructions
 1) Make the PVC tube whatever length you need to fit the equipment.
